@@ -1,0 +1,15 @@
+current directory: /mnt/c/Users/terry/OneDrive/Cape-BaseAPI/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.9.1/ext/bootsnap
+/usr/share/rvm/rubies/ruby-3.0.2/bin/ruby -I /usr/share/rvm/rubies/ruby-3.0.2/lib/ruby/3.0.0 -r ./siteconf20220428-19457-q6247p.rb extconf.rb
+creating Makefile
+
+current directory: /mnt/c/Users/terry/OneDrive/Cape-BaseAPI/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.9.1/ext/bootsnap
+make DESTDIR\= clean
+
+current directory: /mnt/c/Users/terry/OneDrive/Cape-BaseAPI/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.9.1/ext/bootsnap
+make DESTDIR\=
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.so
+
+current directory: /mnt/c/Users/terry/OneDrive/Cape-BaseAPI/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.9.1/ext/bootsnap
+make DESTDIR\= install
+/usr/bin/install -m 0755 bootsnap.so ./.gem.20220428-19457-kfxuao/bootsnap
